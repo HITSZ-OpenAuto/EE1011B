@@ -7,6 +7,10 @@
 ![Static Badge](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat)
 ![Static Badge](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-80%25-wheat)
 
+## 教材
+
+- 电路理论基础/孙立山，陈希有主编；哈尔滨工业大学电工基础教研室编。——4版.——北京：高等教育出版社，2013.7（2021.11重印）
+  ISBN 978-7-04-037361-5
 
 ## 授课教师
 
