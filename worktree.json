@@ -1,0 +1,172 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 1417,
+    "time": 1751969418,
+    "hash": "8f19c3f45a72ab1c0fb611cc00e27aea5e6e33e5"
+  },
+  ".hoa/worktree.json": {
+    "size": 4959,
+    "time": 1751769806,
+    "hash": "9f48a472723dd3502e832bd6a8e216d9527db479"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713083234,
+    "hash": "629304bb44c5296146c4f4d173369b0132a94fb9"
+  },
+  "README.md": {
+    "size": 3204,
+    "time": 1739373771,
+    "hash": "7bc8a05637d28e8f2f16d37c45f0c7a660e5af9b"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1739373771,
+    "hash": "7bc8a05637d28e8f2f16d37c45f0c7a660e5af9b"
+  },
+  "assignments/2023_WJD_习题答案修订/第10章 习题解答.pdf": {
+    "size": 701006,
+    "time": 1708922346,
+    "hash": "e1335813b43dc23f0a3857feded3c65ad9fc7cb6"
+  },
+  "assignments/2023_WJD_习题答案修订/第11章 习题解答.pdf": {
+    "size": 340854,
+    "time": 1708922346,
+    "hash": "e1335813b43dc23f0a3857feded3c65ad9fc7cb6"
+  },
+  "assignments/2023_WJD_习题答案修订/第12章 习题解答.pdf": {
+    "size": 368229,
+    "time": 1708922346,
+    "hash": "e1335813b43dc23f0a3857feded3c65ad9fc7cb6"
+  },
+  "assignments/2023_WJD_习题答案修订/第13章 习题解答.pdf": {
+    "size": 369639,
+    "time": 1708922346,
+    "hash": "e1335813b43dc23f0a3857feded3c65ad9fc7cb6"
+  },
+  "assignments/2023_WJD_习题答案修订/附录A 习题解答.pdf": {
+    "size": 259676,
+    "time": 1708922346,
+    "hash": "e1335813b43dc23f0a3857feded3c65ad9fc7cb6"
+  },
+  "assignments/README.md": {
+    "size": 146,
+    "time": 1701192299,
+    "hash": "3d45add7cc3990e92417e72c7f6191306fa02bf9"
+  },
+  "assignments/ch10_二端口网络.pdf": {
+    "size": 2633310,
+    "time": 1701192299,
+    "hash": "3d45add7cc3990e92417e72c7f6191306fa02bf9"
+  },
+  "assignments/ch11_网络图论与网络方程.pdf": {
+    "size": 2300101,
+    "time": 1701192299,
+    "hash": "3d45add7cc3990e92417e72c7f6191306fa02bf9"
+  },
+  "assignments/ch12_非线性电阻电路.pdf": {
+    "size": 1453068,
+    "time": 1701192299,
+    "hash": "3d45add7cc3990e92417e72c7f6191306fa02bf9"
+  },
+  "assignments/ch13_均匀传输线.pdf": {
+    "size": 2776951,
+    "time": 1701192299,
+    "hash": "3d45add7cc3990e92417e72c7f6191306fa02bf9"
+  },
+  "assignments/电路习题解答（原版）.pdf": {
+    "size": 3528797,
+    "time": 1708922346,
+    "hash": "e1335813b43dc23f0a3857feded3c65ad9fc7cb6"
+  },
+  "assignments/附录A_磁路.pdf": {
+    "size": 2051282,
+    "time": 1701192299,
+    "hash": "3d45add7cc3990e92417e72c7f6191306fa02bf9"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1739373771,
+    "hash": "7bc8a05637d28e8f2f16d37c45f0c7a660e5af9b"
+  },
+  "exams/2022电路IB复习检测.pdf": {
+    "size": 518478,
+    "time": 1739373771,
+    "hash": "7bc8a05637d28e8f2f16d37c45f0c7a660e5af9b"
+  },
+  "exams/2022电路IB期末.pdf": {
+    "size": 339370,
+    "time": 1701192299,
+    "hash": "3d45add7cc3990e92417e72c7f6191306fa02bf9"
+  },
+  "exams/2022电路IB期末复习检测参考答案.pdf": {
+    "size": 8173771,
+    "time": 1739373771,
+    "hash": "7bc8a05637d28e8f2f16d37c45f0c7a660e5af9b"
+  },
+  "exams/2022电路IB期末答案.pdf": {
+    "size": 685681,
+    "time": 1701192299,
+    "hash": "3d45add7cc3990e92417e72c7f6191306fa02bf9"
+  },
+  "exams/2022电路IB补充试题 5-9答案.pdf": {
+    "size": 3950551,
+    "time": 1739373771,
+    "hash": "7bc8a05637d28e8f2f16d37c45f0c7a660e5af9b"
+  },
+  "exams/2022电路IB补充试题.pdf": {
+    "size": 356027,
+    "time": 1739373771,
+    "hash": "7bc8a05637d28e8f2f16d37c45f0c7a660e5af9b"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1739373771,
+    "hash": "7bc8a05637d28e8f2f16d37c45f0c7a660e5af9b"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1739373771,
+    "hash": "7bc8a05637d28e8f2f16d37c45f0c7a660e5af9b"
+  },
+  "notes/2023电路IB笔记-psp.pdf": {
+    "size": 17654801,
+    "time": 1739373771,
+    "hash": "7bc8a05637d28e8f2f16d37c45f0c7a660e5af9b"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1739373771,
+    "hash": "7bc8a05637d28e8f2f16d37c45f0c7a660e5af9b"
+  },
+  "slides/10章 二端口网络.rar": {
+    "size": 3471683,
+    "time": 1701432349,
+    "hash": "8e97983b9bcb7bacb9f15ad9220c16c71268e6f7"
+  },
+  "slides/11章 网络图论与网络方程.rar": {
+    "size": 3184025,
+    "time": 1701432349,
+    "hash": "8e97983b9bcb7bacb9f15ad9220c16c71268e6f7"
+  },
+  "slides/12章 非线性电阻电路.rar": {
+    "size": 6363572,
+    "time": 1701432349,
+    "hash": "8e97983b9bcb7bacb9f15ad9220c16c71268e6f7"
+  },
+  "slides/13章 均匀传输线.rar": {
+    "size": 10062719,
+    "time": 1701432349,
+    "hash": "8e97983b9bcb7bacb9f15ad9220c16c71268e6f7"
+  },
+  "slides/附录A 磁路.rar": {
+    "size": 4050002,
+    "time": 1701432349,
+    "hash": "8e97983b9bcb7bacb9f15ad9220c16c71268e6f7"
+  },
+  "tag.txt": {
+    "size": 61,
+    "time": 1715519530,
+    "hash": "b5bf2075c0c1b8f7a41d413419c3cc9022aa8dd6"
+  }
+}
