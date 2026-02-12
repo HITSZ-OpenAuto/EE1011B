@@ -26,12 +26,11 @@ author = { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "
 title = "关于考试"
 
 [[sections.items]]
-content = """
-考试难度：中等偏易
-
-相较 [电路 IA](https://hoa.moe/docs/fresh-spring/ee1011a/) ，电路 IB 的考试难度明显下降不少。大部分题目甚至是直接将往年题原封不动照搬，题型也非常套路化。
-"""
-author = { name = "longlin", link = "https://github.com/longlin10086", date = "2023-11" }
+content = "考试难度：中等"
+author = [
+    { name = "longlin", link = "https://github.com/longlin10086", date = "2023-11" },
+    {name = "Fun10165", link = "github.com/fun10165", date = "2026-02"},
+]
 
 [[sections.items]]
 content = """
