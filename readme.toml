@@ -4,24 +4,22 @@ course_code = "EE1011B"
 
 description = ""
 
-[[lecturers]]
+[lecturers]
+[[lecturers.items]]
 name = "王毅"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 如[电路IA](https://hoa.moe/docs/fresh-spring/ee1011a/)中所述
 口水话很多，听课不容易抓住重点；PPT 的内容很完整但同样不好抓住重点。结果很少有学生去现场上课。（回来吧我的火山宝宝 😭）建议自力更生。
 """
 author = { name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "2023-12" }
-
-[[lecturers]]
+[[lecturers.items]]
 name = "赵飞"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = "讲解比较清晰，2022 春，她和王毅老师同时上课，结果王毅老师班上的许多学生都跑过去蹭课了，可以侧面反映教学水平。"
 author = { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "2025-01" }
-
-
 [[sections]]
 title = "关于考试"
 
